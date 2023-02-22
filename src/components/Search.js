@@ -1,6 +1,5 @@
 import Hero from './Hero'
 import { Link } from 'react-router-dom'
-import { Router } from 'react'
 
 // TMBD API key = d6312947974d52162ac5858e3fc68263
 // TMBD example = https://api.themoviedb.org/3/search/company?api_key=d6312947974d52162ac5858e3fc68263&query=Star%20Wars&page=1
