@@ -10,6 +10,7 @@ API -> https://developers.themoviedb.org/3/getting-started/introduction
 ### Tasks:
 - Clean up pages, remove the clutter
 - Convert React DOM router to v6 to modernize
+- Make github page to deploy and demo Movie Browser app
 
 ### Develop solutions for:
 - 404 pages
