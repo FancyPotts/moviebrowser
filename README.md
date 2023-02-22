@@ -4,8 +4,8 @@
 React, React DOM Router (v5), Bootstrap, TheMovieDB (TMDB) API
 
 ## More information about TMDB API can be found at:
-Website -> themoviedb.org
-API -> https://developers.themoviedb.org/3/getting-started/introduction
+- Website -> themoviedb.org
+- API -> https://developers.themoviedb.org/3/getting-started/introduction
 
 ### Tasks:
 - Clean up pages, remove the clutter
